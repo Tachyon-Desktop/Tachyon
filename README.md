@@ -40,4 +40,4 @@ Grab the latest installer from the Releases section:
 
 Found a bug, have a suggestion, or want to request a keyboard shortcut? 
 
-Feel free to open an **[Issue](https://github.com/Tachyon-Desktop/Tachyon/issues)** directly here on GitHub or join our community discussions!<img width="2560" height="1604" alt="01_Modern_Fluent_Explorer" src="https://github.com/user-attachments/assets/53762b3b-8eca-4176-a49a-264665905866" />
+Feel free to open an **[Issue](https://github.com/Tachyon-Desktop/Tachyon/issues)** directly here on GitHub or join our community discussions!
